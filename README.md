@@ -46,7 +46,7 @@ The table is a 5x5 grid, and any command that would result in the robot being of
 When you run ```npm install```, it will auto install this dependencies.
 - [cli-color](https://github.com/medikoo/cli-color)
 
-##Tests
+## Tests
 ```
 npm install -g jasmine
 ```
