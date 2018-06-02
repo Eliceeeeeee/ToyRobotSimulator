@@ -1,0 +1,12 @@
+{
+  "name": "ReaRobot",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "test" : "jasmine",
+    "start": "node bin/ReaRobot.js instructions.txt"
+  },
+  "dependencies": {
+    "cli-color": "^1.0.0"
+  }
+}
