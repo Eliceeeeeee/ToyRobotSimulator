@@ -9,7 +9,7 @@ It moving on a square tabletop with dimension 5 units x 5 units.
 
 To run the app, you'll need:
 
-* [Node.js](https://nodejs.org/en/download/), an open-source, cross-platform runtime environment for developing server-side web applications.     
+* Visual studio 2015  
 * [npm](https://www.npmjs.com/), a package manager for the Node.js server platform. Node.js comes with npm installed.   
 
 Next,
